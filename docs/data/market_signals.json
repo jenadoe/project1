@@ -1,0 +1,101 @@
+{
+    "last_updated": "2026-01-05T12:11:38.758394",
+    "market_count": 100,
+    "signals": [
+        {
+            "type": "HIGH_VOLUME_TRACKER",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "High Liquidity Market",
+            "market": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0065
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9935
+                }
+            ],
+            "volume": 2940054.6702659954
+        },
+        {
+            "type": "HIGH_VOLUME_TRACKER",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "High Liquidity Market",
+            "market": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0035
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9965
+                }
+            ],
+            "volume": 2720788.316947006
+        },
+        {
+            "type": "HIGH_VOLUME_TRACKER",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "High Liquidity Market",
+            "market": "Will the Indiana Pacers win the 2026 NBA Finals?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 2710000.2299999995
+        },
+        {
+            "type": "HIGH_VOLUME_TRACKER",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "High Liquidity Market",
+            "market": "Will Trump nominate Barron Trump as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 2123469.83
+        },
+        {
+            "type": "HIGH_VOLUME_TRACKER",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "High Liquidity Market",
+            "market": "Pistons vs. Cavaliers",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Pistons",
+                    "price": 0.9995
+                },
+                {
+                    "outcome": "Cavaliers",
+                    "price": 0.0005
+                }
+            ],
+            "volume": 1896914.5125340016
+        }
+    ]
+}
