@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     try {
         // GitHub Actions가 만든 데이터 파일 읽기
         // 캐시 방지를 위해 timestamp 추가
-        const res = await fetch(`../data/market_signals.json?t=${Date.now()}`);
+        const res = await fetch(`/data/market_signals.json?t=${Date.now()}`);
         if (!res.ok) throw new Error("Data file not found");
         
         const data = await res.json();
