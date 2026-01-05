@@ -36,7 +36,8 @@ document.addEventListener("DOMContentLoaded", async () => {
             if (sig.color === 'green') badgeClass = "bg-green-900 text-green-300 border border-green-700";
             if (sig.color === 'red') badgeClass = "bg-red-900 text-red-300 border border-red-700";
             if (sig.color === 'yellow') badgeClass = "bg-yellow-900 text-yellow-300 border border-yellow-700";
-
+            if (sig.color === 'gray') badgeClass = "bg-gray-800 text-gray-500 border border-gray-700";
+            
             row.innerHTML = `
                 <td class="p-3">
                     <span class="text-[10px] px-2 py-1 rounded ${badgeClass} font-bold tracking-wider">
