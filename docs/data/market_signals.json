@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-05T13:10:30.562835",
+    "last_updated": "2026-01-05T13:13:34.426739",
     "market_count": 100,
     "signals": [
         {
@@ -50,11 +50,11 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.0015
+                    "price": 0.001
                 },
                 {
                     "outcome": "No",
-                    "price": 0.9985
+                    "price": 0.999
                 }
             ],
             "volume": 2710000.2299999995
@@ -202,11 +202,11 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.0545
+                    "price": 0.055
                 },
                 {
                     "outcome": "No",
-                    "price": 0.9455
+                    "price": 0.945
                 }
             ],
             "volume": 926323.0711249994
@@ -373,11 +373,11 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.0025
+                    "price": 0.0035
                 },
                 {
                     "outcome": "No",
-                    "price": 0.9975
+                    "price": 0.9965
                 }
             ],
             "volume": 484557.45024200017
@@ -430,11 +430,11 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.026
+                    "price": 0.029
                 },
                 {
                     "outcome": "No",
-                    "price": 0.974
+                    "price": 0.971
                 }
             ],
             "volume": 415931.0454719998
@@ -571,25 +571,6 @@
                 }
             ],
             "volume": 361713.87431499927
-        },
-        {
-            "type": "REFERENCE_PRICE",
-            "color": "gray",
-            "gap": "INFO",
-            "message": "Implied Probability (Low Liq)",
-            "market": "Will Auckland FC win on 2026-01-05?",
-            "sum": 1.0,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.0005
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.9995
-                }
-            ],
-            "volume": 357966.44043500006
         },
         {
             "type": "REFERENCE_PRICE",
@@ -734,11 +715,11 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.56
+                    "price": 0.57
                 },
                 {
                     "outcome": "No",
-                    "price": 0.44
+                    "price": 0.43
                 }
             ],
             "volume": 312117.84115400014
@@ -810,11 +791,11 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.225
+                    "price": 0.23
                 },
                 {
                     "outcome": "No",
-                    "price": 0.775
+                    "price": 0.77
                 }
             ],
             "volume": 298392.1274029999
@@ -848,11 +829,11 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.285
+                    "price": 0.305
                 },
                 {
                     "outcome": "No",
-                    "price": 0.715
+                    "price": 0.695
                 }
             ],
             "volume": 292383.407567
@@ -951,6 +932,25 @@
                 }
             ],
             "volume": 273159.7512989998
+        },
+        {
+            "type": "REFERENCE_PRICE",
+            "color": "gray",
+            "gap": "INFO",
+            "message": "Implied Probability (Low Liq)",
+            "market": "Will Villarreal win the 2025–26 Champions League?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 269949.785
         }
     ]
 }
