@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-01-05T12:19:35.688013",
+    "last_updated": "2026-01-05T12:33:29.493875",
     "market_count": 100,
     "signals": [
         {
-            "type": "HIGH_VOLUME_TRACKER",
+            "type": "HIGH_LIQUIDITY",
             "color": "yellow",
             "gap": "FAIR",
-            "message": "High Liquidity Market",
+            "message": "Fair Value Market",
             "market": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
             "sum": 1.0,
             "outcomes": [
@@ -22,10 +22,10 @@
             "volume": 2940054.6702659954
         },
         {
-            "type": "HIGH_VOLUME_TRACKER",
+            "type": "HIGH_LIQUIDITY",
             "color": "yellow",
             "gap": "FAIR",
-            "message": "High Liquidity Market",
+            "message": "Fair Value Market",
             "market": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
             "sum": 1.0,
             "outcomes": [
@@ -41,29 +41,29 @@
             "volume": 2720788.316947006
         },
         {
-            "type": "HIGH_VOLUME_TRACKER",
+            "type": "HIGH_LIQUIDITY",
             "color": "yellow",
             "gap": "FAIR",
-            "message": "High Liquidity Market",
+            "message": "Fair Value Market",
             "market": "Will the Indiana Pacers win the 2026 NBA Finals?",
             "sum": 1.0,
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.0005
+                    "price": 0.001
                 },
                 {
                     "outcome": "No",
-                    "price": 0.9995
+                    "price": 0.999
                 }
             ],
             "volume": 2710000.2299999995
         },
         {
-            "type": "HIGH_VOLUME_TRACKER",
+            "type": "HIGH_LIQUIDITY",
             "color": "yellow",
             "gap": "FAIR",
-            "message": "High Liquidity Market",
+            "message": "Fair Value Market",
             "market": "Will Trump nominate Barron Trump as the next Fed chair?",
             "sum": 1.0,
             "outcomes": [
@@ -79,10 +79,10 @@
             "volume": 2123469.83
         },
         {
-            "type": "HIGH_VOLUME_TRACKER",
+            "type": "HIGH_LIQUIDITY",
             "color": "yellow",
             "gap": "FAIR",
-            "message": "High Liquidity Market",
+            "message": "Fair Value Market",
             "market": "Pistons vs. Cavaliers",
             "sum": 1.0,
             "outcomes": [
@@ -96,6 +96,101 @@
                 }
             ],
             "volume": 1896914.5125340016
+        },
+        {
+            "type": "HIGH_LIQUIDITY",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Fair Value Market",
+            "market": "Packers vs. Vikings",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Packers",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "Vikings",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 1706665.8781379987
+        },
+        {
+            "type": "HIGH_LIQUIDITY",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Fair Value Market",
+            "market": "Maduro in U.S. custody by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.9995
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.0005
+                }
+            ],
+            "volume": 1486609.4428199993
+        },
+        {
+            "type": "HIGH_LIQUIDITY",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Fair Value Market",
+            "market": "Colts vs. Texans",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Colts",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "Texans",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 1439595.5384939997
+        },
+        {
+            "type": "HIGH_LIQUIDITY",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Fair Value Market",
+            "market": "Will Trump nominate himself as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 1217098.53
+        },
+        {
+            "type": "HIGH_LIQUIDITY",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Fair Value Market",
+            "market": "Will Trump nominate Larry Lindsey as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 974236.36
         }
     ]
 }
