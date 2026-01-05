@@ -1,1 +1,41 @@
+name: Run Intelligence Engine
 
+on:
+  workflow_dispatch: # 수동 실행 버튼
+  schedule:
+    - cron: '*/5 * * * *' # 5분마다 실행
+
+jobs:
+  run-hybrid:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Public 리포에 쓸 권한
+    
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+        with:
+          path: public_web
+
+      - name: Checkout Private Brain
+        uses: actions/checkout@v4
+        with:
+          repository: jenadoe/project1-core  # 👈 본인 아이디로 수정 필수!
+          token: ${{ secrets.PAT_FOR_PRIVATE_CODE }}
+          path: private_core
+
+      - name: Run Engine
+        run: |
+          cd private_core
+          python main.py
+          
+          # 데이터 이동 (Private -> Public)
+          cp data/market_signals.json ../public_web/data/
+
+      - name: Commit & Push
+        run: |
+          cd public_web
+          git config --global user.name 'PolyBot'
+          git config --global user.email 'bot@noreply.github.com'
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Signals" && git push)
