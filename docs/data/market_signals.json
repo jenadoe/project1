@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-01-05T13:34:19.311295",
-    "market_count": 76,
+    "last_updated": "2026-01-05T13:37:13.436428",
+    "market_count": 77,
     "signals": [
         {
             "type": "MARKET_INEFFICIENCY",
@@ -495,6 +495,25 @@
                 }
             ],
             "volume": 162406.93870200004
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-98.0%",
+            "message": "High Spread (>2%)",
+            "market": "Will Gavin Newsom win the 2028 US Presidential Election?",
+            "sum": 1.98,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.99
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.99
+                }
+            ],
+            "volume": 160352.85800699986
         },
         {
             "type": "MARKET_INEFFICIENCY",
