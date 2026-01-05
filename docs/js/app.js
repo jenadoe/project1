@@ -39,7 +39,9 @@ document.addEventListener("DOMContentLoaded", async () => {
 
             row.innerHTML = `
                 <td class="p-3">
-                    <span class="text-[10px] px-2 py-1 rounded ${badgeClass} font-bold tracking-wider">${sig.type.replace('_', ' ')}</span>
+                    <span class="text-[10px] px-2 py-1 rounded ${badgeClass} font-bold tracking-wider">
+                      ${sig.type.replaceAll('_', ' ')}
+                    </span>
                 </td>
                 <td class="p-3 font-medium text-white">
                     ${sig.market}
