@@ -1,69 +1,12 @@
 {
-    "last_updated": "2026-01-05T13:29:56.470551",
+    "last_updated": "2026-01-05T13:34:19.311295",
     "market_count": 76,
     "signals": [
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 2940054.6702659954
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 2720788.316947006
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will the U.S. invade Venezuela by January 31, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 926323.0711249994
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "No change in Fed interest rates after January 2026 meeting?",
             "sum": 1.98,
             "outcomes": [
@@ -81,27 +24,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 605963.04975
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Fed decreases interest rates by 25 bps after January 2026 meeting?",
             "sum": 1.98,
             "outcomes": [
@@ -119,160 +43,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Bernie Sanders win the 2028 Democratic presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 527568.945745
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will MrBeast win the 2028 Democratic presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 518453.57145
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Elon Musk post 420-439 tweets from December 30 to January 6, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 484557.45024200017
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Nicolás Maduro released from custody by January 9, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 451182.3057810001
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate Larry Kudlow as the next Fed chair?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 444604.1660000002
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Elon Musk post 440-459 tweets from December 30 to January 6, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 415931.0454719998
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Ajax win the 2025–26 Champions League?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 408871.45700000005
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Russia x Ukraine ceasefire by January 31, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 396469.5082759999
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "US strikes Iran by January 31, 2026?",
             "sum": 1.98,
             "outcomes": [
@@ -290,27 +62,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Bitcoin reach $150,000 in January?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 361713.87431499927
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Russia x Ukraine ceasefire by March 31, 2026?",
             "sum": 1.98,
             "outcomes": [
@@ -329,7 +82,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Hornets vs. Thunder",
             "sum": 1.98,
             "outcomes": [
@@ -348,7 +101,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Khamenei out as Supreme Leader of Iran by March 31?",
             "sum": 1.98,
             "outcomes": [
@@ -367,7 +120,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will Egypt win on 2026-01-05?",
             "sum": 1.98,
             "outcomes": [
@@ -385,65 +138,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Mallorca win the 2025–26 La Liga?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 321262.479333
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will the Carolina Panthers win Super Bowl 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 319758.156618
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Elon Musk post 480-499 tweets from December 30 to January 6, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 319074.6014489999
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Over $5M committed to the Infinex public sale?",
             "sum": 1.98,
             "outcomes": [
@@ -461,65 +157,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Ethereum reach $6,000 in January?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 310616.3400849997
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will the price of Bitcoin be above $86,000 on January 5?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 310538.0269230002
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Bodo Glimt win the 2025–26 Champions League?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 304972.71599999996
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will María Corina Machado enter Venezuela by January 31?",
             "sum": 1.98,
             "outcomes": [
@@ -537,27 +176,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Matt Gaetz win the 2028 Republican presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 297307.5064000001
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Khamenei out as Supreme Leader of Iran by June 30?",
             "sum": 1.98,
             "outcomes": [
@@ -576,7 +196,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will Trump nominate Kevin Hassett as the next Fed chair?",
             "sum": 1.98,
             "outcomes": [
@@ -594,141 +214,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will George Clooney win the 2028 Democratic presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 279033.4413
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Katie Britt win the 2028 Republican presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 275513.68525
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will the price of Bitcoin be above $98,000 on January 5?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 273159.7512989998
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Villarreal win the 2025–26 Champions League?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 269949.785
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Elon Musk post 460-479 tweets from December 30 to January 6, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 269868.13454899937
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Club Brugge win the 2025–26 Champions League?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 266237.098
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Athletic Bilbao win the 2025–26 La Liga?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 253367.571
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Khamenei out as Supreme Leader of Iran by January 31?",
             "sum": 1.98,
             "outcomes": [
@@ -747,7 +234,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will Trump nominate Kevin Warsh as the next Fed chair?",
             "sum": 1.98,
             "outcomes": [
@@ -765,27 +252,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will the Pittsburgh Steelers win Super Bowl 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 238582.37944600004
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Maduro mugshot released by Monday?",
             "sum": 1.98,
             "outcomes": [
@@ -803,46 +271,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Mike Pence win the 2028 Republican presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 236182.83275000003
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Elon Musk post 500-519 tweets from December 30 to January 6, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 228432.87681899994
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Israel strikes Iran by January 31, 2026?",
             "sum": 1.98,
             "outcomes": [
@@ -861,7 +291,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will the price of Bitcoin be above $92,000 on January 5?",
             "sum": 1.98,
             "outcomes": [
@@ -879,84 +309,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Stephen A. Smith win the 2028 Democratic presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 215947.215506
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate Judy Shelton as the next Fed chair?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 212474.22217900003
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate Michelle Bowman as the next Fed chair?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 210098.46326100003
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate David Malpass as the next Fed chair?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 208916.66629400002
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Bitcoin Up or Down on January 5?",
             "sum": 1.98,
             "outcomes": [
@@ -974,27 +328,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Eintracht Frankfurt win the 2025–26 Champions League?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 206321.138
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Kraken vs. Flames",
             "sum": 1.98,
             "outcomes": [
@@ -1013,7 +348,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will China invade Taiwan by end of 2026?",
             "sum": 1.98,
             "outcomes": [
@@ -1031,27 +366,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate Rick Rieder as the next Fed chair?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 198927.71054899995
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Red Wings vs. Senators",
             "sum": 1.98,
             "outcomes": [
@@ -1070,7 +386,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Knicks vs. Pistons",
             "sum": 1.98,
             "outcomes": [
@@ -1088,160 +404,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate Scott Bessent as the next Fed chair?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 191256.05967800002
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Elon Musk post 520-539 tweets from December 30 to January 6, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 187839.7827909999
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will the San Francisco 49ers win Super Bowl 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 185158.261241
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Union Saint-Gilloise win the 2025–26 Champions League?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 183965.90916599997
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate Stephen Miran as the next Fed chair?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 180775.10623200002
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Elon Musk post 560-579 tweets from December 30 to January 6, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 179421.87636799988
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Bitcoin reach $130,000 in January?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 177435.60768400002
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate no one before 2027?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 174975.08532599997
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will Leicester City FC win on 2026-01-05?",
             "sum": 1.98,
             "outcomes": [
@@ -1259,103 +423,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will John Thune win the 2028 Republican presidential nomination?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 173164.54964999997
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Athletic Club win the 2025–26 Champions League?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 171557.953
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Elon Musk post 580-599 tweets from December 30 to January 6, 2026?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 171014.85864
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will the Washington Wizards win the 2026 NBA Finals?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 168412.026
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will Trump nominate Christopher Waller as the next Fed chair?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 165096.423311
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will Trump acquire Greenland before 2027?",
             "sum": 1.98,
             "outcomes": [
@@ -1374,7 +443,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will the U.S. invade Venezuela by March 31, 2026?",
             "sum": 1.98,
             "outcomes": [
@@ -1393,7 +462,7 @@
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will France win the 2026 FIFA World Cup?",
             "sum": 1.98,
             "outcomes": [
@@ -1411,27 +480,8 @@
         {
             "type": "MARKET_INEFFICIENCY",
             "color": "red",
-            "gap": "-99.8%",
-            "message": "Real Spread (Inefficient)",
-            "market": "Will the Sacramento Kings win the 2026 NBA Finals?",
-            "sum": 1.998,
-            "outcomes": [
-                {
-                    "outcome": "Yes",
-                    "price": 0.999
-                },
-                {
-                    "outcome": "No",
-                    "price": 0.999
-                }
-            ],
-            "volume": 162418.228
-        },
-        {
-            "type": "MARKET_INEFFICIENCY",
-            "color": "red",
             "gap": "-98.0%",
-            "message": "Real Spread (Inefficient)",
+            "message": "High Spread (>2%)",
             "market": "Will there be another US government shutdown by January 31?",
             "sum": 1.98,
             "outcomes": [
@@ -1445,6 +495,956 @@
                 }
             ],
             "volume": 162406.93870200004
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 2940054.6702659954
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 2720788.316947006
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will the U.S. invade Venezuela by January 31, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 926323.0711249994
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 605963.04975
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Bernie Sanders win the 2028 Democratic presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 527568.945745
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will MrBeast win the 2028 Democratic presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 518453.57145
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Elon Musk post 420-439 tweets from December 30 to January 6, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 484557.45024200017
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Nicolás Maduro released from custody by January 9, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 451182.3057810001
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate Larry Kudlow as the next Fed chair?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 444604.1660000002
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Elon Musk post 440-459 tweets from December 30 to January 6, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 415931.0454719998
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Ajax win the 2025–26 Champions League?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 408871.45700000005
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Russia x Ukraine ceasefire by January 31, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 396469.5082759999
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Bitcoin reach $150,000 in January?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 361713.87431499927
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Mallorca win the 2025–26 La Liga?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 321262.479333
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will the Carolina Panthers win Super Bowl 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 319758.156618
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Elon Musk post 480-499 tweets from December 30 to January 6, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 319074.6014489999
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Ethereum reach $6,000 in January?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 310616.3400849997
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will the price of Bitcoin be above $86,000 on January 5?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 310538.0269230002
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Bodo Glimt win the 2025–26 Champions League?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 304972.71599999996
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Matt Gaetz win the 2028 Republican presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 297307.5064000001
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will George Clooney win the 2028 Democratic presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 279033.4413
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Katie Britt win the 2028 Republican presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 275513.68525
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will the price of Bitcoin be above $98,000 on January 5?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 273159.7512989998
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Villarreal win the 2025–26 Champions League?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 269949.785
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Elon Musk post 460-479 tweets from December 30 to January 6, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 269868.13454899937
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Club Brugge win the 2025–26 Champions League?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 266237.098
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Athletic Bilbao win the 2025–26 La Liga?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 253367.571
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will the Pittsburgh Steelers win Super Bowl 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 238582.37944600004
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Mike Pence win the 2028 Republican presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 236182.83275000003
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Elon Musk post 500-519 tweets from December 30 to January 6, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 228432.87681899994
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Stephen A. Smith win the 2028 Democratic presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 215947.215506
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate Judy Shelton as the next Fed chair?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 212474.22217900003
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate Michelle Bowman as the next Fed chair?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 210098.46326100003
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate David Malpass as the next Fed chair?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 208916.66629400002
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Eintracht Frankfurt win the 2025–26 Champions League?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 206321.138
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate Rick Rieder as the next Fed chair?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 198927.71054899995
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate Scott Bessent as the next Fed chair?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 191256.05967800002
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Elon Musk post 520-539 tweets from December 30 to January 6, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 187839.7827909999
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will the San Francisco 49ers win Super Bowl 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 185158.261241
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Union Saint-Gilloise win the 2025–26 Champions League?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 183965.90916599997
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate Stephen Miran as the next Fed chair?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 180775.10623200002
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Elon Musk post 560-579 tweets from December 30 to January 6, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 179421.87636799988
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Bitcoin reach $130,000 in January?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 177435.60768400002
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate no one before 2027?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 174975.08532599997
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will John Thune win the 2028 Republican presidential nomination?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 173164.54964999997
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Athletic Club win the 2025–26 Champions League?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 171557.953
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Elon Musk post 580-599 tweets from December 30 to January 6, 2026?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 171014.85864
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will the Washington Wizards win the 2026 NBA Finals?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 168412.026
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will Trump nominate Christopher Waller as the next Fed chair?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 165096.423311
+        },
+        {
+            "type": "MARKET_INEFFICIENCY",
+            "color": "red",
+            "gap": "-99.8%",
+            "message": "High Spread (>2%)",
+            "market": "Will the Sacramento Kings win the 2026 NBA Finals?",
+            "sum": 1.998,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.999
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.999
+                }
+            ],
+            "volume": 162418.228
         }
     ]
 }
