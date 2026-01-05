@@ -20,17 +20,33 @@ jobs:
       - name: Checkout Private Brain
         uses: actions/checkout@v4
         with:
-          repository: jenadoe/project1-core  # 👈 본인 아이디로 수정 필수!
+          repository: jenadoe/project1-core  # 👈 본인 아이디 확인!
           token: ${{ secrets.PAT_FOR_PRIVATE_CODE }}
           path: private_core
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
 
       - name: Run Engine
         run: |
           cd private_core
+          
+          # 📦 라이브러리 설치 (이게 빠져서 에러 난 것!)
+          pip install -r requirements.txt
+          
+          # 엔진 실행
           python main.py
           
           # 데이터 이동 (Private -> Public)
-          cp data/market_signals.json ../public_web/data/
+          # 만약 private_core/data 폴더가 없으면 에러 날 수 있으니 체크
+          if [ -f "data/market_signals.json" ]; then
+            cp data/market_signals.json ../public_web/data/
+          else
+            echo "⚠️ Warning: No signal file generated."
+          fi
 
       - name: Commit & Push
         run: |
