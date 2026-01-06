@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-06T05:58:16.451187",
+    "last_updated": "2026-01-06T06:37:58.622134",
     "market_count": 40,
     "signals": [
         {
@@ -20,7 +20,7 @@
                 }
             ],
             "volume": 4939967.179496993,
-            "liquidity": 1957303.56402,
+            "liquidity": 1949641.91165,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -41,7 +41,7 @@
                 }
             ],
             "volume": 3579814.501598,
-            "liquidity": 5333734.28333,
+            "liquidity": 5321181.23165,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -62,7 +62,7 @@
                 }
             ],
             "volume": 2582014.519999999,
-            "liquidity": 304145.36402,
+            "liquidity": 304046.32334,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -83,7 +83,7 @@
                 }
             ],
             "volume": 2289606.95,
-            "liquidity": 2534674.69727,
+            "liquidity": 2534709.56227,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -104,7 +104,7 @@
                 }
             ],
             "volume": 2097102.4499999997,
-            "liquidity": 180403.5053,
+            "liquidity": 180443.8553,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -125,7 +125,7 @@
                 }
             ],
             "volume": 1368685.9400000002,
-            "liquidity": 123659.28881,
+            "liquidity": 121629.72481,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -146,28 +146,7 @@
                 }
             ],
             "volume": 1367721.7545959991,
-            "liquidity": 686796.4921,
-            "source": "PROBABILITY_FALLBACK"
-        },
-        {
-            "type": "EFFICIENT_MARKET",
-            "color": "yellow",
-            "gap": "FAIR",
-            "message": "Healthy Market",
-            "market": "Nuggets vs. 76ers",
-            "sum": 1.0,
-            "outcomes": [
-                {
-                    "outcome": "Nuggets",
-                    "price": 0.9995
-                },
-                {
-                    "outcome": "76ers",
-                    "price": 0.0005
-                }
-            ],
-            "volume": 1302928.4606210047,
-            "liquidity": 1633291.32339,
+            "liquidity": 593221.8034,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -188,28 +167,7 @@
                 }
             ],
             "volume": 1057834.9501860002,
-            "liquidity": 690065.1869,
-            "source": "PROBABILITY_FALLBACK"
-        },
-        {
-            "type": "EFFICIENT_MARKET",
-            "color": "yellow",
-            "gap": "FAIR",
-            "message": "Healthy Market",
-            "market": "Hornets vs. Thunder",
-            "sum": 1.0,
-            "outcomes": [
-                {
-                    "outcome": "Hornets",
-                    "price": 0.9995
-                },
-                {
-                    "outcome": "Thunder",
-                    "price": 0.0005
-                }
-            ],
-            "volume": 1026990.1497600024,
-            "liquidity": 799344.8303,
+            "liquidity": 677283.7347,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -230,7 +188,7 @@
                 }
             ],
             "volume": 932838.9340449981,
-            "liquidity": 1558748.86986,
+            "liquidity": 1461210.49512,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -243,15 +201,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.095
+                    "price": 0.085
                 },
                 {
                     "outcome": "No",
-                    "price": 0.905
+                    "price": 0.915
                 }
             ],
             "volume": 917610.9792720004,
-            "liquidity": 268619.8457,
+            "liquidity": 265084.4839,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -272,7 +230,7 @@
                 }
             ],
             "volume": 816900.2277089996,
-            "liquidity": 128767.8012,
+            "liquidity": 130775.1101,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -293,7 +251,7 @@
                 }
             ],
             "volume": 767898.3599999999,
-            "liquidity": 746246.60479,
+            "liquidity": 745143.61399,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -314,7 +272,7 @@
                 }
             ],
             "volume": 762288.465745,
-            "liquidity": 304946.69241,
+            "liquidity": 374540.8968,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -335,28 +293,7 @@
                 }
             ],
             "volume": 705275.7362879998,
-            "liquidity": 459012.11824,
-            "source": "PROBABILITY_FALLBACK"
-        },
-        {
-            "type": "EFFICIENT_MARKET",
-            "color": "yellow",
-            "gap": "FAIR",
-            "message": "Healthy Market",
-            "market": "Suns vs. Rockets",
-            "sum": 1.0,
-            "outcomes": [
-                {
-                    "outcome": "Suns",
-                    "price": 0.0005
-                },
-                {
-                    "outcome": "Rockets",
-                    "price": 0.9995
-                }
-            ],
-            "volume": 686349.0189479971,
-            "liquidity": 1350488.50759,
+            "liquidity": 458450.96723,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -377,7 +314,7 @@
                 }
             ],
             "volume": 671256.4103969978,
-            "liquidity": 329504.1386,
+            "liquidity": 330285.0572,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -398,7 +335,7 @@
                 }
             ],
             "volume": 615298.3883759998,
-            "liquidity": 542915.10597,
+            "liquidity": 537816.76667,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -419,7 +356,7 @@
                 }
             ],
             "volume": 609272.0406499999,
-            "liquidity": 883597.08706,
+            "liquidity": 885990.65871,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -432,15 +369,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.195
+                    "price": 0.16
                 },
                 {
                     "outcome": "No",
-                    "price": 0.805
+                    "price": 0.84
                 }
             ],
             "volume": 592166.4403489997,
-            "liquidity": 198880.3407,
+            "liquidity": 191370.3448,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -453,15 +390,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.0065
+                    "price": 0.007
                 },
                 {
                     "outcome": "No",
-                    "price": 0.9935
+                    "price": 0.993
                 }
             ],
             "volume": 581891.6355489998,
-            "liquidity": 338633.68762,
+            "liquidity": 338420.55657,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -482,7 +419,7 @@
                 }
             ],
             "volume": 541557.1477659998,
-            "liquidity": 882390.31116,
+            "liquidity": 879398.93198,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -503,28 +440,7 @@
                 }
             ],
             "volume": 530973.0652030001,
-            "liquidity": 229979.79162,
-            "source": "PROBABILITY_FALLBACK"
-        },
-        {
-            "type": "EFFICIENT_MARKET",
-            "color": "yellow",
-            "gap": "FAIR",
-            "message": "Healthy Market",
-            "market": "Red Wings vs. Senators",
-            "sum": 1.0,
-            "outcomes": [
-                {
-                    "outcome": "Red Wings",
-                    "price": 0.9995
-                },
-                {
-                    "outcome": "Senators",
-                    "price": 0.0005
-                }
-            ],
-            "volume": 524905.2842890002,
-            "liquidity": 644264.08118,
+            "liquidity": 233602.10416,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -545,7 +461,7 @@
                 }
             ],
             "volume": 517886.02872300043,
-            "liquidity": 224393.16991,
+            "liquidity": 300461.60097,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -566,7 +482,7 @@
                 }
             ],
             "volume": 495405.909,
-            "liquidity": 149384.985,
+            "liquidity": 149204.58473,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -587,7 +503,7 @@
                 }
             ],
             "volume": 484384.29300000006,
-            "liquidity": 930238.78258,
+            "liquidity": 931539.9128,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -608,7 +524,7 @@
                 }
             ],
             "volume": 480538.13800000004,
-            "liquidity": 306336.94344,
+            "liquidity": 311654.09344,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -629,7 +545,7 @@
                 }
             ],
             "volume": 465319.46,
-            "liquidity": 180581.43572,
+            "liquidity": 179014.07772,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -650,7 +566,7 @@
                 }
             ],
             "volume": 414170.95705900004,
-            "liquidity": 493856.23324,
+            "liquidity": 476392.57661,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -671,7 +587,7 @@
                 }
             ],
             "volume": 389720.8235899998,
-            "liquidity": 225865.05409,
+            "liquidity": 224260.7882,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -692,7 +608,7 @@
                 }
             ],
             "volume": 377273.25018299994,
-            "liquidity": 383310.52244,
+            "liquidity": 360206.90359,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -713,7 +629,7 @@
                 }
             ],
             "volume": 376693.91501500044,
-            "liquidity": 104788.1376,
+            "liquidity": 105562.9236,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -734,7 +650,7 @@
                 }
             ],
             "volume": 371787.23,
-            "liquidity": 85195.00242,
+            "liquidity": 86262.72654,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -755,7 +671,7 @@
                 }
             ],
             "volume": 360124.84683500003,
-            "liquidity": 50359.91645,
+            "liquidity": 54421.98424,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -776,7 +692,7 @@
                 }
             ],
             "volume": 357428.39271600015,
-            "liquidity": 131432.24874,
+            "liquidity": 127460.31005,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -797,7 +713,7 @@
                 }
             ],
             "volume": 344261.26105700096,
-            "liquidity": 681989.01494,
+            "liquidity": 589383.1373,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -810,15 +726,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.305
+                    "price": 0.295
                 },
                 {
                     "outcome": "No",
-                    "price": 0.695
+                    "price": 0.705
                 }
             ],
             "volume": 327186.368684,
-            "liquidity": 99960.3265,
+            "liquidity": 97993.6472,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -831,15 +747,99 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.0155
+                    "price": 0.0245
                 },
                 {
                     "outcome": "No",
-                    "price": 0.9845
+                    "price": 0.9755
                 }
             ],
             "volume": 316574.2409770001,
-            "liquidity": 28108.71405,
+            "liquidity": 28654.5331,
+            "source": "PROBABILITY_FALLBACK"
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Uzbekistan win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 314328.248,
+            "liquidity": 265810.19938,
+            "source": "PROBABILITY_FALLBACK"
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Israel strikes Iran by January 31, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.155
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.845
+                }
+            ],
+            "volume": 310491.4246589996,
+            "liquidity": 43870.5268,
+            "source": "PROBABILITY_FALLBACK"
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 309934.417,
+            "liquidity": 378311.57978,
+            "source": "PROBABILITY_FALLBACK"
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Seattle Seahawks win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.202
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.798
+                }
+            ],
+            "volume": 308320.272411,
+            "liquidity": 647744.52349,
             "source": "PROBABILITY_FALLBACK"
         }
     ]
