@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-06T05:44:51.620128",
+    "last_updated": "2026-01-06T05:58:16.451187",
     "market_count": 40,
     "signals": [
         {
@@ -20,7 +20,7 @@
                 }
             ],
             "volume": 4939967.179496993,
-            "liquidity": 1927785.10231,
+            "liquidity": 1957303.56402,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -41,7 +41,7 @@
                 }
             ],
             "volume": 3579814.501598,
-            "liquidity": 5334081.84129,
+            "liquidity": 5333734.28333,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -62,7 +62,7 @@
                 }
             ],
             "volume": 2582014.519999999,
-            "liquidity": 304466.84945,
+            "liquidity": 304145.36402,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -83,7 +83,7 @@
                 }
             ],
             "volume": 2289606.95,
-            "liquidity": 2535973.39727,
+            "liquidity": 2534674.69727,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -104,7 +104,7 @@
                 }
             ],
             "volume": 2097102.4499999997,
-            "liquidity": 180437.7953,
+            "liquidity": 180403.5053,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -125,7 +125,7 @@
                 }
             ],
             "volume": 1368685.9400000002,
-            "liquidity": 123603.67681,
+            "liquidity": 123659.28881,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -146,7 +146,7 @@
                 }
             ],
             "volume": 1367721.7545959991,
-            "liquidity": 684806.1892,
+            "liquidity": 686796.4921,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -167,7 +167,7 @@
                 }
             ],
             "volume": 1302928.4606210047,
-            "liquidity": 1652761.98108,
+            "liquidity": 1633291.32339,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -188,7 +188,7 @@
                 }
             ],
             "volume": 1057834.9501860002,
-            "liquidity": 690878.9085,
+            "liquidity": 690065.1869,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -209,7 +209,7 @@
                 }
             ],
             "volume": 1026990.1497600024,
-            "liquidity": 800697.29645,
+            "liquidity": 799344.8303,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -230,7 +230,7 @@
                 }
             ],
             "volume": 932838.9340449981,
-            "liquidity": 1550461.48531,
+            "liquidity": 1558748.86986,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -251,7 +251,7 @@
                 }
             ],
             "volume": 917610.9792720004,
-            "liquidity": 265893.0196,
+            "liquidity": 268619.8457,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -272,7 +272,7 @@
                 }
             ],
             "volume": 816900.2277089996,
-            "liquidity": 128945.5359,
+            "liquidity": 128767.8012,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -293,7 +293,7 @@
                 }
             ],
             "volume": 767898.3599999999,
-            "liquidity": 746930.14182,
+            "liquidity": 746246.60479,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -314,7 +314,7 @@
                 }
             ],
             "volume": 762288.465745,
-            "liquidity": 315533.86796,
+            "liquidity": 304946.69241,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -335,7 +335,7 @@
                 }
             ],
             "volume": 705275.7362879998,
-            "liquidity": 458089.85456,
+            "liquidity": 459012.11824,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -356,7 +356,7 @@
                 }
             ],
             "volume": 686349.0189479971,
-            "liquidity": 1163287.12052,
+            "liquidity": 1350488.50759,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -377,7 +377,7 @@
                 }
             ],
             "volume": 671256.4103969978,
-            "liquidity": 320926.0835,
+            "liquidity": 329504.1386,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -398,7 +398,7 @@
                 }
             ],
             "volume": 615298.3883759998,
-            "liquidity": 548784.74077,
+            "liquidity": 542915.10597,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -419,7 +419,7 @@
                 }
             ],
             "volume": 609272.0406499999,
-            "liquidity": 885974.29796,
+            "liquidity": 883597.08706,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -440,7 +440,7 @@
                 }
             ],
             "volume": 592166.4403489997,
-            "liquidity": 199858.7607,
+            "liquidity": 198880.3407,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -461,7 +461,7 @@
                 }
             ],
             "volume": 581891.6355489998,
-            "liquidity": 338652.70025,
+            "liquidity": 338633.68762,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -482,7 +482,7 @@
                 }
             ],
             "volume": 541557.1477659998,
-            "liquidity": 883173.30672,
+            "liquidity": 882390.31116,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -503,7 +503,7 @@
                 }
             ],
             "volume": 530973.0652030001,
-            "liquidity": 232464.9836,
+            "liquidity": 229979.79162,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -524,7 +524,7 @@
                 }
             ],
             "volume": 524905.2842890002,
-            "liquidity": 652722.0227,
+            "liquidity": 644264.08118,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -545,7 +545,7 @@
                 }
             ],
             "volume": 517886.02872300043,
-            "liquidity": 201383.11048,
+            "liquidity": 224393.16991,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -566,7 +566,7 @@
                 }
             ],
             "volume": 495405.909,
-            "liquidity": 149339.9534,
+            "liquidity": 149384.985,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -587,7 +587,7 @@
                 }
             ],
             "volume": 484384.29300000006,
-            "liquidity": 930701.68778,
+            "liquidity": 930238.78258,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -608,7 +608,7 @@
                 }
             ],
             "volume": 480538.13800000004,
-            "liquidity": 304237.26603,
+            "liquidity": 306336.94344,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -629,7 +629,7 @@
                 }
             ],
             "volume": 465319.46,
-            "liquidity": 180523.29572,
+            "liquidity": 180581.43572,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -650,7 +650,7 @@
                 }
             ],
             "volume": 414170.95705900004,
-            "liquidity": 493966.32182,
+            "liquidity": 493856.23324,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -671,7 +671,7 @@
                 }
             ],
             "volume": 389720.8235899998,
-            "liquidity": 227098.02925,
+            "liquidity": 225865.05409,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -692,7 +692,7 @@
                 }
             ],
             "volume": 377273.25018299994,
-            "liquidity": 400462.53361,
+            "liquidity": 383310.52244,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -713,7 +713,7 @@
                 }
             ],
             "volume": 376693.91501500044,
-            "liquidity": 105533.8377,
+            "liquidity": 104788.1376,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -734,7 +734,7 @@
                 }
             ],
             "volume": 371787.23,
-            "liquidity": 87351.92455,
+            "liquidity": 85195.00242,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -755,7 +755,7 @@
                 }
             ],
             "volume": 360124.84683500003,
-            "liquidity": 53351.36145,
+            "liquidity": 50359.91645,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -776,7 +776,7 @@
                 }
             ],
             "volume": 357428.39271600015,
-            "liquidity": 114971.42717,
+            "liquidity": 131432.24874,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -797,7 +797,7 @@
                 }
             ],
             "volume": 344261.26105700096,
-            "liquidity": 701218.02514,
+            "liquidity": 681989.01494,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -818,7 +818,7 @@
                 }
             ],
             "volume": 327186.368684,
-            "liquidity": 101132.5543,
+            "liquidity": 99960.3265,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -831,15 +831,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.0275
+                    "price": 0.0155
                 },
                 {
                     "outcome": "No",
-                    "price": 0.9725
+                    "price": 0.9845
                 }
             ],
             "volume": 316574.2409770001,
-            "liquidity": 28120.75112,
+            "liquidity": 28108.71405,
             "source": "PROBABILITY_FALLBACK"
         }
     ]
