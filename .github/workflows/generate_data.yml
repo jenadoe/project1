@@ -3,48 +3,55 @@ name: Generate Intelligence Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '3,13,23,33,43,53 * * * *'  # 10분마다
-  # push는 제거 (테스트는 workflow_dispatch 사용)
+    - cron: '3,13,23,33,43,53 * * * *'
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
-    permissions:
-      contents: read  # ⭐ write 제거! read-only
+    timeout-minutes: 10
     
     steps:
-      - name: Checkout Private Brain
+      - name: Checkout Public Repo (Terminal)
         uses: actions/checkout@v4
         with:
-          repository: jenadoe/project1-core
+          path: public_repo
+
+      - name: Checkout Private Repo (Core)
+        uses: actions/checkout@v4
+        with:
+          repository: jenadoe/project1-core # 실제 계정명/저장소명으로 확인
           token: ${{ secrets.PAT_FOR_PRIVATE_CODE }}
           path: private_core
-          
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
           cache: 'pip'
-          
+
       - name: Run Engine
         run: |
           cd private_core
           pip install -r requirements.txt
           python main.py
+
+      - name: Update Private History (DB Sync)
+        run: |
+          cd private_core
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/market_history.json
+          git commit -m "Sync history: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No history changes"
+          git push
+
+      - name: Deploy to Public Docs
+        run: |
+          # 결과물 복사 (Core -> Terminal)
+          cp private_core/data/market_signals.json public_repo/docs/data/
           
-          # 데이터 생성 확인
-          if [ ! -f "data/market_signals.json" ]; then
-            echo "⚠️ No data generated"
-            exit 1
-          fi
-          
-          echo "✅ Data generated successfully"
-          
-      # ⭐ Git Push 대신 Artifact로 저장
-      - name: Upload Data as Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: market-data
-          path: private_core/data/market_signals.json
-          retention-days: 1  # 1일 후 자동 삭제
+          cd public_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/market_signals.json
+          git commit -m "Update signals: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No signal changes"
+          git push
