@@ -1,5 +1,3806 @@
 {
-    "last_updated": "2026-01-05T19:02:13.975129",
-    "market_count": 1,
-    "signals": []
+    "last_updated": "2026-01-06T01:42:17.867475",
+    "market_count": 200,
+    "signals": [
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0065
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9935
+                }
+            ],
+            "volume": 4939967.179496993
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0035
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9965
+                }
+            ],
+            "volume": 3579814.501598
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Knicks vs. Pistons",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Knicks",
+                    "price": 0.23
+                },
+                {
+                    "outcome": "Pistons",
+                    "price": 0.77
+                }
+            ],
+            "volume": 3023982.044983004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Indiana Pacers win the 2026 NBA Finals?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 2582014.519999999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Maduro in U.S. custody by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.9995
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.0005
+                }
+            ],
+            "volume": 2289606.95
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Barron Trump as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 2097102.4499999997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate himself as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 1368685.9400000002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "No change in Fed interest rates after January 2026 meeting?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.905
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.095
+                }
+            ],
+            "volume": 1367721.7545959991
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Nuggets vs. 76ers",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Nuggets",
+                    "price": 0.125
+                },
+                {
+                    "outcome": "76ers",
+                    "price": 0.875
+                }
+            ],
+            "volume": 1302928.4606210047
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Fed decreases interest rates by 25 bps after January 2026 meeting?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.095
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.905
+                }
+            ],
+            "volume": 1057834.9501860002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Hornets vs. Thunder",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Hornets",
+                    "price": 0.185
+                },
+                {
+                    "outcome": "Thunder",
+                    "price": 0.815
+                }
+            ],
+            "volume": 1026990.1497600024
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Warriors vs. Clippers",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Warriors",
+                    "price": 0.565
+                },
+                {
+                    "outcome": "Clippers",
+                    "price": 0.435
+                }
+            ],
+            "volume": 932838.9340449981
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Khamenei out as Supreme Leader of Iran by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.115
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.885
+                }
+            ],
+            "volume": 917610.9792720004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Over $5M committed to the Infinex public sale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.765
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.235
+                }
+            ],
+            "volume": 816900.2277089996
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0045
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9955
+                }
+            ],
+            "volume": 767898.3599999999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 420-439 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 762288.465745
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Houston Texans win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0725
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9275
+                }
+            ],
+            "volume": 705275.7362879998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Suns vs. Rockets",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Suns",
+                    "price": 0.295
+                },
+                {
+                    "outcome": "Rockets",
+                    "price": 0.705
+                }
+            ],
+            "volume": 686349.0189479971
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will China invade Taiwan by end of 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.135
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.865
+                }
+            ],
+            "volume": 671256.4103969978
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $150,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0035
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9965
+                }
+            ],
+            "volume": 615298.3883759998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Tim Walz win the 2028 Democratic presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0045
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9955
+                }
+            ],
+            "volume": 609272.0406499999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Khamenei out as Supreme Leader of Iran by March 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.215
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.785
+                }
+            ],
+            "volume": 592166.4403489997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Carolina Panthers win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0055
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9945
+                }
+            ],
+            "volume": 581891.6355489998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Spread: Pistons (-1.5)",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Pistons",
+                    "price": 0.825
+                },
+                {
+                    "outcome": "Knicks",
+                    "price": 0.175
+                }
+            ],
+            "volume": 581232.5953540005
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Russia x Ukraine ceasefire by January 31, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0325
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9675
+                }
+            ],
+            "volume": 541557.1477659998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Nicolás Maduro released from custody by January 9, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.002
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.998
+                }
+            ],
+            "volume": 530973.0652030001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Red Wings vs. Senators",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Red Wings",
+                    "price": 0.875
+                },
+                {
+                    "outcome": "Senators",
+                    "price": 0.125
+                }
+            ],
+            "volume": 524905.2842890002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 480-499 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0135
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9865
+                }
+            ],
+            "volume": 517886.02872300043
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Columbia Lions vs. Cornell Big Red",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Columbia Lions",
+                    "price": 0.9995
+                },
+                {
+                    "outcome": "Cornell Big Red",
+                    "price": 0.0005
+                }
+            ],
+            "volume": 513340.3959629999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Athletic Bilbao win the 2025–26 La Liga?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.003
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.997
+                }
+            ],
+            "volume": 495405.909
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will MrBeast win the 2028 Democratic presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0045
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9955
+                }
+            ],
+            "volume": 484384.29300000006
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Cape Verde win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 480538.13800000004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Bulls vs. Celtics",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Bulls",
+                    "price": 0.044
+                },
+                {
+                    "outcome": "Celtics",
+                    "price": 0.956
+                }
+            ],
+            "volume": 466938.1587910001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Ron Paul as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 465319.46
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Utah vs. Rangers",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Utah",
+                    "price": 0.335
+                },
+                {
+                    "outcome": "Rangers",
+                    "price": 0.665
+                }
+            ],
+            "volume": 434698.2238440002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Mike Pence win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0045
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9955
+                }
+            ],
+            "volume": 414170.95705900004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Hawks vs. Raptors",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Hawks",
+                    "price": 0.215
+                },
+                {
+                    "outcome": "Raptors",
+                    "price": 0.785
+                }
+            ],
+            "volume": 407734.5309689994
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the U.S. invade Venezuela by January 31, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.091
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.909
+                }
+            ],
+            "volume": 389720.8235899998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Kraken vs. Flames",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Kraken",
+                    "price": 0.425
+                },
+                {
+                    "outcome": "Flames",
+                    "price": 0.575
+                }
+            ],
+            "volume": 377273.25018299994
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "US strikes Iran by January 31, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.145
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.855
+                }
+            ],
+            "volume": 376693.91501500044
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Meituan have the best AI model at the end of January 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 371787.23
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 640-659 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.002
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.998
+                }
+            ],
+            "volume": 360124.84683500003
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Maduro mugshot released by Monday?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0155
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9845
+                }
+            ],
+            "volume": 357428.39271600015
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Jazz vs. Trail Blazers",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Jazz",
+                    "price": 0.335
+                },
+                {
+                    "outcome": "Trail Blazers",
+                    "price": 0.665
+                }
+            ],
+            "volume": 344261.26105700096
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Khamenei out as Supreme Leader of Iran by June 30?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.295
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.705
+                }
+            ],
+            "volume": 327186.368684
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Ducks vs. Capitals",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Ducks",
+                    "price": 0.07
+                },
+                {
+                    "outcome": "Capitals",
+                    "price": 0.93
+                }
+            ],
+            "volume": 318132.3263890002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Spread: Celtics (-11.5)",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Celtics",
+                    "price": 0.75
+                },
+                {
+                    "outcome": "Bulls",
+                    "price": 0.25
+                }
+            ],
+            "volume": 317804.19020499976
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 580-599 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.016
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.984
+                }
+            ],
+            "volume": 316574.2409770001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Uzbekistan win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 314328.248
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Israel strikes Iran by January 31, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.195
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.805
+                }
+            ],
+            "volume": 310491.4246589996
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 309934.417
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Seattle Seahawks win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.196
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.804
+                }
+            ],
+            "volume": 308320.272411
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 660-679 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 307609.36376899993
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Over $3M committed to the Infinex public sale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.925
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.075
+                }
+            ],
+            "volume": 299490.614563
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Larry Kudlow as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 297313.37600000005
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 500-519 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.169
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.831
+                }
+            ],
+            "volume": 295652.17982499965
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Devils vs. Islanders",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Devils",
+                    "price": 0.525
+                },
+                {
+                    "outcome": "Islanders",
+                    "price": 0.475
+                }
+            ],
+            "volume": 293734.73591
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $100,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.505
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.495
+                }
+            ],
+            "volume": 292655.73764700006
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0045
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9955
+                }
+            ],
+            "volume": 290611.70025000005
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 540-559 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.2455
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.7545
+                }
+            ],
+            "volume": 288907.2714300001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Pittsburgh Steelers win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.019
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.981
+                }
+            ],
+            "volume": 277610.07291299995
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $120,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0235
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9765
+                }
+            ],
+            "volume": 276973.871138
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Curaçao win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 275014.479
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Kevin Hassett as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.405
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.595
+                }
+            ],
+            "volume": 273494.63395299995
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $95,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.895
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.105
+                }
+            ],
+            "volume": 272423.5884350003
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Over $10M committed to the Infinex public sale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.286
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.714
+                }
+            ],
+            "volume": 272347.0167259999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Russia x Ukraine ceasefire by March 31, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.155
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.845
+                }
+            ],
+            "volume": 268570.9783830007
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the San Francisco 49ers win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.035
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.965
+                }
+            ],
+            "volume": 267188.75717299996
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate no one before 2027?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.003
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.997
+                }
+            ],
+            "volume": 266098.508403
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Qatar win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 263800.88399999996
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 620-639 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0065
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9935
+                }
+            ],
+            "volume": 262928.3404040001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Vivek Ramaswamy win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0105
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9895
+                }
+            ],
+            "volume": 260329.20538499995
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Club Brugge win the 2025–26 Champions League?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 259568.05999999997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will John Thune win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0045
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9955
+                }
+            ],
+            "volume": 256230.39775
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $130,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0145
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9855
+                }
+            ],
+            "volume": 255694.2833830001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 560-579 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0825
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9175
+                }
+            ],
+            "volume": 247120.1046370002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will South Africa win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 246117.07200000001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 600-619 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.009
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.991
+                }
+            ],
+            "volume": 242309.76801099983
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Knicks vs. Pistons: O/U 233.5",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Over",
+                    "price": 0.205
+                },
+                {
+                    "outcome": "Under",
+                    "price": 0.795
+                }
+            ],
+            "volume": 229003.20475600002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Ducks vs. Flyers",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Ducks",
+                    "price": 0.415
+                },
+                {
+                    "outcome": "Flyers",
+                    "price": 0.585
+                }
+            ],
+            "volume": 227765.10762100003
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Over $2M committed to the Infinex public sale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.992
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.008
+                }
+            ],
+            "volume": 227032.788137
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Kevin Warsh as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.365
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.635
+                }
+            ],
+            "volume": 226276.02510400006
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will A Minecraft Movie be the top grossing movie of 2025?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.9995
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.0005
+                }
+            ],
+            "volume": 224785.09
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Over $20M committed to the Ranger public sale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.915
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.085
+                }
+            ],
+            "volume": 223053.3209860001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Spread: Thunder (-15.5)",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Thunder",
+                    "price": 0.405
+                },
+                {
+                    "outcome": "Hornets",
+                    "price": 0.595
+                }
+            ],
+            "volume": 220104.61489599987
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Ethereum reach $6,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0025
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9975
+                }
+            ],
+            "volume": 214158.02785000004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 520-539 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.4225
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.5775
+                }
+            ],
+            "volume": 204348.3830880001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Knicks vs. Pistons: O/U 232.5",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Over",
+                    "price": 0.225
+                },
+                {
+                    "outcome": "Under",
+                    "price": 0.775
+                }
+            ],
+            "volume": 204238.11213300013
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Rick Rieder as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.046
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.954
+                }
+            ],
+            "volume": 198868.13651
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate David Malpass as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.002
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.998
+                }
+            ],
+            "volume": 197352.52333300005
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will María Corina Machado enter Venezuela by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.215
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.785
+                }
+            ],
+            "volume": 196556.81401300002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Judy Shelton as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.019
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.981
+                }
+            ],
+            "volume": 195355.3118080001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Another US strike on Venezuela on January 4?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 193911.68495999998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Spread: Rockets (-8.5)",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Rockets",
+                    "price": 0.465
+                },
+                {
+                    "outcome": "Suns",
+                    "price": 0.535
+                }
+            ],
+            "volume": 190548.83537400013
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Michelle Bowman as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.018
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.982
+                }
+            ],
+            "volume": 189210.532341
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Haiti win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 186295.747
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 740+ tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 183599.200012
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Over $40M committed to the Ranger public sale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.765
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.235
+                }
+            ],
+            "volume": 183021.85047499993
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Scott Bessent as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.017
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.983
+                }
+            ],
+            "volume": 183011.0628480001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Memphis Grizzlies win the 2026 NBA Finals?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0055
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9945
+                }
+            ],
+            "volume": 182918.41250199982
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 680-699 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 182111.88116
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Jordan win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 180863.639
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Wild vs. Kings",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Wild",
+                    "price": 0.525
+                },
+                {
+                    "outcome": "Kings",
+                    "price": 0.475
+                }
+            ],
+            "volume": 180090.43744999974
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will New Zealand win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 179367.545
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the price of Bitcoin be above $98,000 on January 6?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0125
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9875
+                }
+            ],
+            "volume": 177950.77328700002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.545
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.455
+                }
+            ],
+            "volume": 171907.94515400004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Matt Gaetz win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0055
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9945
+                }
+            ],
+            "volume": 171502.4718
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Khamenei leave Iran by Friday?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.018
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.982
+                }
+            ],
+            "volume": 168461.08505599998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will \"Avatar: Fire and Ash\" 3rd Weekend Box Office be less than 40m?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 166658.44552700012
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump acquire Greenland before 2027?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.095
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.905
+                }
+            ],
+            "volume": 164676.16507800002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Christopher Waller as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.124
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.876
+                }
+            ],
+            "volume": 164288.7449930001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "US strike on Colombia by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.042
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.958
+                }
+            ],
+            "volume": 164278.86966
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Russia x Ukraine ceasefire by end of 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.45
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.55
+                }
+            ],
+            "volume": 163434.41257300015
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Golden Knights vs. Jets",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Golden Knights",
+                    "price": 0.505
+                },
+                {
+                    "outcome": "Jets",
+                    "price": 0.495
+                }
+            ],
+            "volume": 163233.10713900003
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0085
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9915
+                }
+            ],
+            "volume": 162506.252589
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Cilia Flores released from custody by January 9, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.995
+                }
+            ],
+            "volume": 159995.08698800005
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Opinion FDV above $1B one day after launch?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.61
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.39
+                }
+            ],
+            "volume": 159930.70804700028
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will André Ventura win the 2026 Portugal presidential election?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.039
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.961
+                }
+            ],
+            "volume": 158360.256451
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Spread: Knicks (-3.5)",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Knicks",
+                    "price": 0.15
+                },
+                {
+                    "outcome": "Pistons",
+                    "price": 0.85
+                }
+            ],
+            "volume": 156723.0103250001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Maduro mugshot released by January 9?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.145
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.855
+                }
+            ],
+            "volume": 156709.14642700003
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Jerome Powell as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 155430.17300000004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 700-719 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 153858.742494
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Trump nominate Stephen Miran as the next Fed chair?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0035
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9965
+                }
+            ],
+            "volume": 151012.92016200002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Columbia Lions vs. Cornell Big Red: O/U 169.5",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Over",
+                    "price": 0.9995
+                },
+                {
+                    "outcome": "Under",
+                    "price": 0.0005
+                }
+            ],
+            "volume": 149755.012879
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Spread: Raptors (-3.5)",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Raptors",
+                    "price": 0.535
+                },
+                {
+                    "outcome": "Hawks",
+                    "price": 0.465
+                }
+            ],
+            "volume": 149448.113139
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Khamenei leave Iran by Jan 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.065
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.935
+                }
+            ],
+            "volume": 147851.47721799999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Los Angeles Chargers win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0275
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9725
+                }
+            ],
+            "volume": 146516.74728399998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $105,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.28
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.72
+                }
+            ],
+            "volume": 144935.2593309999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the price of Bitcoin be above $96,000 on January 6?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.132
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.868
+                }
+            ],
+            "volume": 142038.27343399997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Spread: 76ers (-10.5)",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "76ers",
+                    "price": 0.65
+                },
+                {
+                    "outcome": "Nuggets",
+                    "price": 0.35
+                }
+            ],
+            "volume": 141000.15967700002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Algeria win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0025
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9975
+                }
+            ],
+            "volume": 139105.11999999997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $115,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0435
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9565
+                }
+            ],
+            "volume": 137633.00122800007
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 110-119 tweets from January 3 to January 5, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 137563.31326
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0095
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9905
+                }
+            ],
+            "volume": 136676.89544
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Nuggets vs. 76ers: O/U 228.5",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Over",
+                    "price": 0.515
+                },
+                {
+                    "outcome": "Under",
+                    "price": 0.485
+                }
+            ],
+            "volume": 135790.7337760001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Over $20M committed to the Infinex public sale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0715
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9285
+                }
+            ],
+            "volume": 135270.755144
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the price of Bitcoin be above $86,000 on January 6?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.9995
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.0005
+                }
+            ],
+            "volume": 134839.994049
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $110,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.1315
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.8685
+                }
+            ],
+            "volume": 134496.14261799998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Valencia win the 2025–26 La Liga?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 133466.372
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Stephen A. Smith win the 2028 Democratic presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0065
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9935
+                }
+            ],
+            "volume": 131180.629664
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Switzerland win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0085
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9915
+                }
+            ],
+            "volume": 128844.78629100001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Italy win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0225
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9775
+                }
+            ],
+            "volume": 127190.01784500001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Ethereum Up or Down - January 5, 10PM ET",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Up",
+                    "price": 0.51
+                },
+                {
+                    "outcome": "Down",
+                    "price": 0.49
+                }
+            ],
+            "volume": 125764.646705
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 720-739 tweets from December 30 to January 6, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 125605.20300500002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Nebraska Cornhuskers vs. Ohio State Buckeyes",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Nebraska Cornhuskers",
+                    "price": 0.775
+                },
+                {
+                    "outcome": "Ohio State Buckeyes",
+                    "price": 0.225
+                }
+            ],
+            "volume": 125345.11848799992
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Ducks vs. Capitals: O/U 6.5",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Over",
+                    "price": 0.96
+                },
+                {
+                    "outcome": "Under",
+                    "price": 0.04
+                }
+            ],
+            "volume": 125095.97645399974
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Heat vs. Timberwolves",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Heat",
+                    "price": 0.35
+                },
+                {
+                    "outcome": "Timberwolves",
+                    "price": 0.65
+                }
+            ],
+            "volume": 124294.93726800001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin reach $125,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0155
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9845
+                }
+            ],
+            "volume": 124268.94531399997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Liverpool win the 2025–26 English Premier League?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0095
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9905
+                }
+            ],
+            "volume": 122806.717321
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the price of Bitcoin be above $94,000 on January 6?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.5
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.5
+                }
+            ],
+            "volume": 122220.22364799997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Delcy Rodríguez be the leader of Venezuela end of 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.385
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.615
+                }
+            ],
+            "volume": 121619.51169400007
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Trump invokes War Powers against Venezuela by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.7725
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.2275
+                }
+            ],
+            "volume": 119514.02125600002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the price of Bitcoin be above $90,000 on January 6?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.9915
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.0085
+                }
+            ],
+            "volume": 119283.40930800003
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the price of Bitcoin be above $92,000 on January 6?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.905
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.095
+                }
+            ],
+            "volume": 118652.54037300003
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Oregon win the 2026 College Football National Championship?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.222
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.778
+                }
+            ],
+            "volume": 118017.02143899992
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Union Saint-Gilloise win the 2025–26 Champions League?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0025
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9975
+                }
+            ],
+            "volume": 116249.680333
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will there be another US government shutdown by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.215
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.785
+                }
+            ],
+            "volume": 114708.64680399997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Los Angeles Rams win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.1615
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.8385
+                }
+            ],
+            "volume": 114645.06471500007
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Over $60M committed to the Ranger public sale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.625
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.375
+                }
+            ],
+            "volume": 114456.44154000006
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Bitcoin Up or Down - January 5, 5PM ET",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Up",
+                    "price": 0.9995
+                },
+                {
+                    "outcome": "Down",
+                    "price": 0.0005
+                }
+            ],
+            "volume": 113591.29168000002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Netherlands win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0335
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9665
+                }
+            ],
+            "volume": 111803.26628999997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin dip to $80,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.16
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.84
+                }
+            ],
+            "volume": 111312.090255
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Brooklyn Nets win the 2026 NBA Finals?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 109258.175
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will China invade Taiwan by March 31, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0335
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9665
+                }
+            ],
+            "volume": 108673.25766
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Croatia win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0105
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9895
+                }
+            ],
+            "volume": 108430.71058200001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk win the 2028 US Presidential Election?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.01
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.99
+                }
+            ],
+            "volume": 107076.931415
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Crystal Palace win the 2025–26 English Premier League?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 106766.33500000002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bitcoin dip to $85,000 in January?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.275
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.725
+                }
+            ],
+            "volume": 105185.002166
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will João Cotrim Figueiredo win the 2026 Portugal presidential election?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0795
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9205
+                }
+            ],
+            "volume": 103729.62961200002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "US strikes Iran by March 31, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.255
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.745
+                }
+            ],
+            "volume": 102446.07629899995
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Bitcoin Up or Down on January 6?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Up",
+                    "price": 0.58
+                },
+                {
+                    "outcome": "Down",
+                    "price": 0.42
+                }
+            ],
+            "volume": 102090.82061299997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Hornets vs. Thunder: O/U 234.5",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Over",
+                    "price": 0.715
+                },
+                {
+                    "outcome": "Under",
+                    "price": 0.285
+                }
+            ],
+            "volume": 101837.83028599991
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Arsenal win the 2025–26 English Premier League?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.725
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.275
+                }
+            ],
+            "volume": 98152.51569600006
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will María Corina Machado be the leader of Venezuela end of 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.165
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.835
+                }
+            ],
+            "volume": 98065.22825099996
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Rand Paul win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0075
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9925
+                }
+            ],
+            "volume": 98050.7419
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Tim Walz resign by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0145
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9855
+                }
+            ],
+            "volume": 97785.62353499999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Iran win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0025
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9975
+                }
+            ],
+            "volume": 97558.20649999999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Trump invokes War Powers against Venezuela by January 9?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.72
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.28
+                }
+            ],
+            "volume": 96846.72981899997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Elon Musk post 260-279 tweets from January 2 to January 9, 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0005
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9995
+                }
+            ],
+            "volume": 96400.618731
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will France win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.125
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.875
+                }
+            ],
+            "volume": 95973.3272139999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Stranger Things: Season 5 have more than 75 million views the week of the finale?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0025
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9975
+                }
+            ],
+            "volume": 95966.72616200004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Argentina win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.115
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.885
+                }
+            ],
+            "volume": 95676.66795299997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Senegal win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0055
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9945
+                }
+            ],
+            "volume": 95404.53779999999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the total domestic gross for Avatar: Fire and Ash be less than 400m by January 31?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.345
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.655
+                }
+            ],
+            "volume": 95074.15051400001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Steve Bannon win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0065
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9935
+                }
+            ],
+            "volume": 94689.278351
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Donald Trump win the 2028 Republican presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0345
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9655
+                }
+            ],
+            "volume": 94096.997564
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Hornets vs. Thunder: O/U 233.5",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Over",
+                    "price": 0.66
+                },
+                {
+                    "outcome": "Under",
+                    "price": 0.34
+                }
+            ],
+            "volume": 93080.57532999999
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Bitcoin Up or Down - January 6, 4AM ET",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Up",
+                    "price": 0.5
+                },
+                {
+                    "outcome": "Down",
+                    "price": 0.5
+                }
+            ],
+            "volume": 92457.08986399998
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Buffalo Bills win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.095
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.905
+                }
+            ],
+            "volume": 90962.09916700004
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Portugal win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0705
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9295
+                }
+            ],
+            "volume": 90716.39795900002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Denver Broncos win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.1095
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.8905
+                }
+            ],
+            "volume": 90445.19973600001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Morocco win the 2026 FIFA World Cup?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0165
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9835
+                }
+            ],
+            "volume": 90133.667499
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Bernie Sanders win the 2028 Democratic presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0045
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9955
+                }
+            ],
+            "volume": 90081.52000000002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Luís Marques Mendes win the 2026 Portugal presidential election?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.59
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.41
+                }
+            ],
+            "volume": 89800.12348099997
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will the Jacksonville Jaguars win Super Bowl 2026?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0575
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9425
+                }
+            ],
+            "volume": 89707.79280000001
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Mark Kelly win the 2028 Democratic presidential nomination?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.02
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.98
+                }
+            ],
+            "volume": 89545.431355
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Vivek Ramaswamy win the 2028 US Presidential Election?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0095
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9905
+                }
+            ],
+            "volume": 89522.367215
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Michelle Obama win the 2028 US Presidential Election?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0075
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9925
+                }
+            ],
+            "volume": 89018.11811900002
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will PSG win the 2025–26 Champions League?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.105
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.895
+                }
+            ],
+            "volume": 88238.067748
+        },
+        {
+            "type": "EFFICIENT_MARKET",
+            "color": "yellow",
+            "gap": "FAIR",
+            "message": "Healthy Market",
+            "market": "Will Real Sociedad win the 2025–26 La Liga?",
+            "sum": 1.0,
+            "outcomes": [
+                {
+                    "outcome": "Yes",
+                    "price": 0.0015
+                },
+                {
+                    "outcome": "No",
+                    "price": 0.9985
+                }
+            ],
+            "volume": 86769.731
+        }
+    ]
 }
