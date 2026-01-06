@@ -3,7 +3,7 @@ name: Run Intelligence Engine
 on:
   workflow_dispatch: # 수동 실행 버튼
   schedule:
-    - cron: '*/5 * * * *' # 5분마다 실행
+    - cron: '*/15 * * * *' # 15분마다 실행
 
 jobs:
   run-hybrid:
