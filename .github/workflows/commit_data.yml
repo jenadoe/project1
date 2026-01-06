@@ -1,0 +1,45 @@
+name: Commit Intelligence Data
+
+on:
+  workflow_run:
+    workflows: ["Generate Intelligence Data"]  # Workflow A 이름과 일치해야 함
+    types:
+      - completed
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    # ⭐ Workflow A가 성공했을 때만 실행
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    permissions:
+      contents: write  # 이제 write 권한 사용
+    
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+        with:
+          ref: main  # 항상 최신 main
+          
+      - name: Download Data Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: market-data
+          path: docs/data/
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+          
+      - name: Commit & Push
+        run: |
+          git config user.name 'PolyBot'
+          git config user.email 'bot@noreply.github.com'
+          
+          git add docs/data/market_signals.json
+          
+          # 변경사항 있을 때만 커밋
+          if git diff --staged --quiet; then
+            echo "📭 No changes to commit"
+          else
+            git commit -m "🤖 Update Signals: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ Data committed"
+          fi
