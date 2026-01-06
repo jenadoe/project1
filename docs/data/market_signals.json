@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-06T05:21:20.549990",
+    "last_updated": "2026-01-06T05:44:51.620128",
     "market_count": 40,
     "signals": [
         {
@@ -20,7 +20,7 @@
                 }
             ],
             "volume": 4939967.179496993,
-            "liquidity": 1939785.32044,
+            "liquidity": 1927785.10231,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -41,7 +41,7 @@
                 }
             ],
             "volume": 3579814.501598,
-            "liquidity": 5332631.35615,
+            "liquidity": 5334081.84129,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -62,7 +62,7 @@
                 }
             ],
             "volume": 2582014.519999999,
-            "liquidity": 304450.08945,
+            "liquidity": 304466.84945,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -104,7 +104,7 @@
                 }
             ],
             "volume": 2097102.4499999997,
-            "liquidity": 180452.6073,
+            "liquidity": 180437.7953,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -125,7 +125,7 @@
                 }
             ],
             "volume": 1368685.9400000002,
-            "liquidity": 123043.19081,
+            "liquidity": 123603.67681,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -146,7 +146,7 @@
                 }
             ],
             "volume": 1367721.7545959991,
-            "liquidity": 684892.2682,
+            "liquidity": 684806.1892,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -167,7 +167,7 @@
                 }
             ],
             "volume": 1302928.4606210047,
-            "liquidity": 1715050.20186,
+            "liquidity": 1652761.98108,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -188,7 +188,7 @@
                 }
             ],
             "volume": 1057834.9501860002,
-            "liquidity": 689477.974,
+            "liquidity": 690878.9085,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -209,7 +209,7 @@
                 }
             ],
             "volume": 1026990.1497600024,
-            "liquidity": 619843.14868,
+            "liquidity": 800697.29645,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -222,15 +222,15 @@
             "outcomes": [
                 {
                     "outcome": "Warriors",
-                    "price": 0.025
+                    "price": 0.0005
                 },
                 {
                     "outcome": "Clippers",
-                    "price": 0.975
+                    "price": 0.9995
                 }
             ],
             "volume": 932838.9340449981,
-            "liquidity": 238904.2943,
+            "liquidity": 1550461.48531,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -251,7 +251,7 @@
                 }
             ],
             "volume": 917610.9792720004,
-            "liquidity": 272134.4937,
+            "liquidity": 265893.0196,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -264,15 +264,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.76
+                    "price": 0.765
                 },
                 {
                     "outcome": "No",
-                    "price": 0.24
+                    "price": 0.235
                 }
             ],
             "volume": 816900.2277089996,
-            "liquidity": 124969.555,
+            "liquidity": 128945.5359,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -293,7 +293,7 @@
                 }
             ],
             "volume": 767898.3599999999,
-            "liquidity": 746172.46796,
+            "liquidity": 746930.14182,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -314,7 +314,7 @@
                 }
             ],
             "volume": 762288.465745,
-            "liquidity": 316446.12876,
+            "liquidity": 315533.86796,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -335,7 +335,7 @@
                 }
             ],
             "volume": 705275.7362879998,
-            "liquidity": 458094.56784,
+            "liquidity": 458089.85456,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -356,7 +356,7 @@
                 }
             ],
             "volume": 686349.0189479971,
-            "liquidity": 1231614.89394,
+            "liquidity": 1163287.12052,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -377,7 +377,7 @@
                 }
             ],
             "volume": 671256.4103969978,
-            "liquidity": 319210.9566,
+            "liquidity": 320926.0835,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -398,7 +398,7 @@
                 }
             ],
             "volume": 615298.3883759998,
-            "liquidity": 459250.15704,
+            "liquidity": 548784.74077,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -419,7 +419,7 @@
                 }
             ],
             "volume": 609272.0406499999,
-            "liquidity": 883700.92496,
+            "liquidity": 885974.29796,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -440,7 +440,7 @@
                 }
             ],
             "volume": 592166.4403489997,
-            "liquidity": 205533.1788,
+            "liquidity": 199858.7607,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -461,7 +461,7 @@
                 }
             ],
             "volume": 581891.6355489998,
-            "liquidity": 338686.04444,
+            "liquidity": 338652.70025,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -482,7 +482,7 @@
                 }
             ],
             "volume": 541557.1477659998,
-            "liquidity": 881485.85857,
+            "liquidity": 883173.30672,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -503,7 +503,7 @@
                 }
             ],
             "volume": 530973.0652030001,
-            "liquidity": 212595.69962,
+            "liquidity": 232464.9836,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -524,7 +524,7 @@
                 }
             ],
             "volume": 524905.2842890002,
-            "liquidity": 526561.99034,
+            "liquidity": 652722.0227,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -537,15 +537,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.013
+                    "price": 0.0005
                 },
                 {
                     "outcome": "No",
-                    "price": 0.987
+                    "price": 0.9995
                 }
             ],
             "volume": 517886.02872300043,
-            "liquidity": 54188.36746,
+            "liquidity": 201383.11048,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -566,7 +566,7 @@
                 }
             ],
             "volume": 495405.909,
-            "liquidity": 149173.1071,
+            "liquidity": 149339.9534,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -587,7 +587,7 @@
                 }
             ],
             "volume": 484384.29300000006,
-            "liquidity": 930347.2909,
+            "liquidity": 930701.68778,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -608,7 +608,7 @@
                 }
             ],
             "volume": 480538.13800000004,
-            "liquidity": 304236.88277,
+            "liquidity": 304237.26603,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -629,7 +629,7 @@
                 }
             ],
             "volume": 465319.46,
-            "liquidity": 177327.68572,
+            "liquidity": 180523.29572,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -650,7 +650,7 @@
                 }
             ],
             "volume": 414170.95705900004,
-            "liquidity": 494152.60296,
+            "liquidity": 493966.32182,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -671,7 +671,7 @@
                 }
             ],
             "volume": 389720.8235899998,
-            "liquidity": 220258.73725,
+            "liquidity": 227098.02925,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -692,7 +692,7 @@
                 }
             ],
             "volume": 377273.25018299994,
-            "liquidity": 433396.34051,
+            "liquidity": 400462.53361,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -713,7 +713,7 @@
                 }
             ],
             "volume": 376693.91501500044,
-            "liquidity": 105275.9281,
+            "liquidity": 105533.8377,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -734,7 +734,7 @@
                 }
             ],
             "volume": 371787.23,
-            "liquidity": 84510.89601,
+            "liquidity": 87351.92455,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -755,7 +755,7 @@
                 }
             ],
             "volume": 360124.84683500003,
-            "liquidity": 44759.1805,
+            "liquidity": 53351.36145,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -776,7 +776,7 @@
                 }
             ],
             "volume": 357428.39271600015,
-            "liquidity": 118660.19847,
+            "liquidity": 114971.42717,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -797,7 +797,7 @@
                 }
             ],
             "volume": 344261.26105700096,
-            "liquidity": 677018.00145,
+            "liquidity": 701218.02514,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -810,15 +810,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.295
+                    "price": 0.305
                 },
                 {
                     "outcome": "No",
-                    "price": 0.705
+                    "price": 0.695
                 }
             ],
             "volume": 327186.368684,
-            "liquidity": 96804.1094,
+            "liquidity": 101132.5543,
             "source": "PROBABILITY_FALLBACK"
         },
         {
@@ -831,15 +831,15 @@
             "outcomes": [
                 {
                     "outcome": "Yes",
-                    "price": 0.0155
+                    "price": 0.0275
                 },
                 {
                     "outcome": "No",
-                    "price": 0.9845
+                    "price": 0.9725
                 }
             ],
             "volume": 316574.2409770001,
-            "liquidity": 29844.42454,
+            "liquidity": 28120.75112,
             "source": "PROBABILITY_FALLBACK"
         }
     ]
