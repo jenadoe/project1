@@ -1,0 +1,50 @@
+name: Generate Intelligence Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '3,13,23,33,43,53 * * * *'  # 10분마다
+  # push는 제거 (테스트는 workflow_dispatch 사용)
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: read  # ⭐ write 제거! read-only
+    
+    steps:
+      - name: Checkout Private Brain
+        uses: actions/checkout@v4
+        with:
+          repository: jenadoe/project1-core
+          token: ${{ secrets.PAT_FOR_PRIVATE_CODE }}
+          path: private_core
+          
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+          
+      - name: Run Engine
+        run: |
+          cd private_core
+          pip install -r requirements.txt
+          python main.py
+          
+          # 데이터 생성 확인
+          if [ ! -f "data/market_signals.json" ]; then
+            echo "⚠️ No data generated"
+            exit 1
+          fi
+          
+          echo "✅ Data generated successfully"
+          
+      # ⭐ Git Push 대신 Artifact로 저장
+      - name: Upload Data as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-data
+          path: private_core/data/market_signals.json
+          retention-days: 1  # 1일 후 자동 삭제
